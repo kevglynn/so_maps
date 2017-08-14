@@ -1,0 +1,18 @@
+check.whatmap           Check the validity of a whatmap argument
+classvec2classmat       Convert a classification vector into a matrix
+                        or the other way around.
+degelder                Powder pattern data by Rene de Gelder
+expandMap               Expand a self-organising map
+getCodes                Extract codebook vectors from a kohonen object
+map.kohonen             Map data to a supervised or unsupervised SOM
+nir                     Near-infrared data with temperature effects
+object.distances        Calculate distances between object vectors in a
+                        SOM
+plot.kohonen            Plot kohonen object
+predict.kohonen         Predict properties using a trained Kohonen map
+summary.kohonen         Summary and print methods for kohonen objects
+supersom                Self- and super-organising maps
+tricolor                Provides smooth unit colors for SOMs
+unit.distances          SOM-grid related functions
+wines                   Wine data
+yeast                   Yeast cell-cycle data

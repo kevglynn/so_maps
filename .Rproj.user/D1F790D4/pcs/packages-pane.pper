@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "/Users/rv186016/projects/20170327-ABCMeeting/shiny_demo/som/packrat/lib/x86_64-apple-darwin13.4.0/3.3.3"
+    }
+}

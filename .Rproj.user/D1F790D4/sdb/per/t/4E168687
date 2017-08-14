@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "if(!require(shiny)) {install.packages(\"shiny\", dependencies = TRUE);require(shiny)}\nif(!require(shinydashboard)) {install.packages(\"shinydashboard\", dependencies = TRUE);require(shinydashboard)}\nif(!require(shinyjs)) {install.packages(\"shinyjs\", dependencies = TRUE);require(shinyjs)}\nif(!require(shinyBS)) {install.packages(\"shinyBS\", dependencies = TRUE);require(shinyBS)}\nif(!require(rhandsontable)) {devtools::install_github(\"jrowen/rhandsontable\");require(shinyBS)}\nif(!require(dplyr)) {install.packages(\"dplyr\", dependencies = TRUE);require(dplyr)}\nif(!require(devtools)) {install.packages(\"devtools\", dependencies = TRUE);require(devtools)}\nif(!require(kohonen)) {install.packages(\"kohonen\", dependencies = TRUE);require(kohonen)}\nif(!require(data.table)) {install.packages(\"data.table\", dependencies = TRUE);require(data.table)}\nif(!require(fields)) {install.packages(\"fields\", dependencies = TRUE);require(fields)}\nif(!require(ggplot2)) {install.packages(\"ggplot2\", dependencies = TRUE);require(ggplot2)}\nlibrary(TBSOM)\ncoolBlueHotRed <- function(n, alpha = 1) {\n  rainbow(n, end=4/6, alpha=alpha)[n:1]\n}\n\npretty_palette <- c(\"#1f77b4\", '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#ffbb0e', '#a02c66','#000000')\npretty_palette.alpha <- adjustcolor(pretty_palette, alpha.f = 0.6)\n\ntheme_set(theme_bw())",
+    "created" : 1489694676486.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2491864697",
+    "id" : "4E168687",
+    "lastKnownWriteTime" : 1489695452,
+    "last_content_update" : 1489695452284,
+    "path" : "~/projects/20170327-ABCMeeting/shiny_demo/som/inst/SOMsUI/global.R",
+    "project_path" : "inst/SOMsUI/global.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

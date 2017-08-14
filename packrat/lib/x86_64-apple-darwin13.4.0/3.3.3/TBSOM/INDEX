@@ -1,0 +1,9 @@
+TBSOMsgui               Opens the SOM Shiny app.
+adjacentWard            Adjacent Ward Cluster Algorithm.
+contr.onehot            Factors into dummies variables
+hello                   Hello, World!
+hexagon                 Plot a hexagon shaped polygon.
+hexagonalPlot           Plot a polygon heatmap.
+hexagonalPlotEval       Plot one of many hexagonal evaluation plots.
+nearestNode             Identify nearest node to click location.
+winsorize               Data winsorization

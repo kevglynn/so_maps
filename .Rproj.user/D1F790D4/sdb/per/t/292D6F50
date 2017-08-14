@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: TBSOM\nType: Package\nTitle: Think Big' implementation of SOM\nVersion: 0.1\nDate: 2016-07-12\nAuthor: Who wrote it\nMaintainer: Who to complain to <yourfault@somewhere.net>\nDescription: Think Big' implementation of SOM (Self-Organizing Maps)\nLicense: What license is it under?\nLazyData: TRUE\nRoxygenNote: 5.0.1",
+    "created" : 1489695803426.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "61791857",
+    "id" : "292D6F50",
+    "lastKnownWriteTime" : 1486675807,
+    "last_content_update" : 1486675807,
+    "path" : "~/projects/20170327-ABCMeeting/shiny_demo/som/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
